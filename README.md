@@ -2,7 +2,7 @@
 
 Um scanner de portas TCP básico desenvolvido em Python. 
 
-Este projeto foi criado como parte dos meus estudos no 2º semestre de Defesa Cibernética, com o objetivo de entender na prática o funcionamento do protocolo TCP/IP e a manipulação de conexões de rede via código.
+Este projeto foi criado como parte dos meus estudos no 1º semestre de Defesa Cibernética, com o objetivo de entender na prática o funcionamento do protocolo TCP/IP e a manipulação de conexões de rede via código.
 
 ## Conceitos Aplicados
 
